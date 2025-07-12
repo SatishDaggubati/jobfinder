@@ -179,4 +179,3 @@ This will display which lines of code were missed in the test coverage directly 
 [conc_fut]:https://docs.python.org/dev/library/concurrent.futures.html#concurrent.futures.ThreadPoolExecutor
 [thread]: https://docs.python.org/3.11/library/threading.html
 [delay_jp]:https://github.com/bunsenmurder/Notebooks/blob/master/jobFunnel/delay_algorithm.ipynb
-#satish
